@@ -1,0 +1,10 @@
+Who invented Java? ; Java was invented by a team led by James Gosling.
+What is the Java language specification? ; The Java language specification specifies the syntax for the Java language.
+What does JDK stand for? ; JDK stands for Java Development Toolkit.
+What does JRE stand for? ; JRE stands for Java Runtime Environment.
+What does IDE stand for? ; IDE stands integrated development environment.
+What is a keyword? List some Java keywords. ; Keywords have specific meaning to the compiler and cannot be used for other purposes in the program such as variables or method names. Examples of keywords are class, static, and void.
+Is Java case sensitive? What is the case for Java keywords? ; Java source code is case sensitive. Java keywords are always in lowercase.
+What are the input and output of a Java compiler? ; The input of a Java compiler is a Java source code file and the output is a Java class file.
+What is the JVM? ; JVM is the Java virtual machine that runs a Java program.
+What is an interpreter? ; An interpreter is a software that reads one statement from the source code, translates it to the machine code or virtual machine code, and then executes it right away.
